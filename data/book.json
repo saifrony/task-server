@@ -1,0 +1,45 @@
+[
+    {
+        "_id":"01",
+        "name":"Godkiller",
+        "writter":"Hannah Kaner",
+        "img":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1659863757i/61244268.jpg",
+        "Details":"Kissen kills gods for a living, and she enjoys it. That is until she finds a god she cannot kill: Skediceth, god of white lies, who is connected to a little noble girl on the run.Elogast fought in the god war,and helped purge the city "
+
+    },
+    {
+        "_id":"02",
+        "name":"I Keep My Exoskeletons to Myself",
+        "writter":"Marisa Crane",
+        "img":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1648063139i/60679392.jpg",
+        "Details":"In a United States not so unlike our own, the Department of Balance has adopted a radical new form of law enforcement: rather than incarceration, wrongdoers are given a second (and sometimes, third, fourth, and fifth) . "
+    },
+    {
+        "_id":"03",
+        "name":"Sister, Maiden, Monster",
+        "writter":"Lucy A. Snyder",
+        "img":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1649700559i/60784461.jpg",
+        "Details":"Sister, Maiden, Monster is a visceral story set in the aftermath of our planet’s disastrous transformation and told through the eyes of three women trying to survive the nightmare, from Bram Stoker Award-winning author Lucy A. Snyder. "
+    },
+    {
+        "_id":"04",
+        "name":"The Salt Grows Heavy",
+        "writter":"Cassandra Khaw",
+        "img":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1665333143i/61884779.jpg",
+        "Details":"From USA Today bestselling author Cassandra Khaw comes The Salt Grows Heavy, a razor-sharp and bewitching fairytale of discovering the darkness in the world, and the darkness within oneself.."
+    },
+    {
+        "_id":"05",
+        "name": "Thornhedge",
+        "writter":"T. Kingfisher",
+        "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1676554049i/61884932.jpg",
+        "Details":"From USA Today bestselling author T. Kingfisher, Thornhedge is the tale of a kind-hearted, toad-shaped heroine, a gentle knight, and a mission gone ."
+    },
+    {
+        "_id":"06",
+        "name":"Dragonfall",
+        "writter":"L.R. Lam",
+        "img":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1663961963i/61985453.jpg",
+        "Details":"Long-banished dragons, revered as gods, return to the mortal realm in the first in this magical new epic fantasy trilogy from a bestselling author.Long ago, humans betrayed dragons, stealing their magic and banishing them to a dying world. "
+    }
+]
